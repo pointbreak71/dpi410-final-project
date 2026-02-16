@@ -1,0 +1,366 @@
+Loaded 3 journals from config
+
+Fetching aer (1975–2025)...
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210188956%2Cpublication_year%3A1975&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aer 1975: request failed, stopping
+  aer 1975: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210188956%2Cpublication_year%3A1976&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aer 1976: request failed, stopping
+  aer 1976: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210188956%2Cpublication_year%3A1977&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aer 1977: request failed, stopping
+  aer 1977: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210188956%2Cpublication_year%3A1978&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aer 1978: request failed, stopping
+  aer 1978: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210188956%2Cpublication_year%3A1979&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aer 1979: request failed, stopping
+  aer 1979: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210188956%2Cpublication_year%3A1980&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aer 1980: request failed, stopping
+  aer 1980: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210188956%2Cpublication_year%3A1981&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aer 1981: request failed, stopping
+  aer 1981: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210188956%2Cpublication_year%3A1982&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aer 1982: request failed, stopping
+  aer 1982: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210188956%2Cpublication_year%3A1983&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aer 1983: request failed, stopping
+  aer 1983: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210188956%2Cpublication_year%3A1984&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aer 1984: request failed, stopping
+  aer 1984: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210188956%2Cpublication_year%3A1985&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aer 1985: request failed, stopping
+  aer 1985: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210188956%2Cpublication_year%3A1986&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aer 1986: request failed, stopping
+  aer 1986: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210188956%2Cpublication_year%3A1987&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aer 1987: request failed, stopping
+  aer 1987: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210188956%2Cpublication_year%3A1988&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aer 1988: request failed, stopping
+  aer 1988: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210188956%2Cpublication_year%3A1989&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aer 1989: request failed, stopping
+  aer 1989: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210188956%2Cpublication_year%3A1990&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aer 1990: request failed, stopping
+  aer 1990: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210188956%2Cpublication_year%3A1991&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aer 1991: request failed, stopping
+  aer 1991: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210188956%2Cpublication_year%3A1992&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aer 1992: request failed, stopping
+  aer 1992: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210188956%2Cpublication_year%3A1993&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aer 1993: request failed, stopping
+  aer 1993: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210188956%2Cpublication_year%3A1994&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aer 1994: request failed, stopping
+  aer 1994: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210188956%2Cpublication_year%3A1995&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aer 1995: request failed, stopping
+  aer 1995: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210188956%2Cpublication_year%3A1996&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aer 1996: request failed, stopping
+  aer 1996: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210188956%2Cpublication_year%3A1997&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aer 1997: request failed, stopping
+  aer 1997: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210188956%2Cpublication_year%3A1998&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aer 1998: request failed, stopping
+  aer 1998: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210188956%2Cpublication_year%3A1999&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aer 1999: request failed, stopping
+  aer 1999: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210188956%2Cpublication_year%3A2000&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aer 2000: request failed, stopping
+  aer 2000: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210188956%2Cpublication_year%3A2001&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aer 2001: request failed, stopping
+  aer 2001: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210188956%2Cpublication_year%3A2002&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aer 2002: request failed, stopping
+  aer 2002: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210188956%2Cpublication_year%3A2003&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aer 2003: request failed, stopping
+  aer 2003: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210188956%2Cpublication_year%3A2004&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aer 2004: request failed, stopping
+  aer 2004: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210188956%2Cpublication_year%3A2005&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aer 2005: request failed, stopping
+  aer 2005: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210188956%2Cpublication_year%3A2006&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aer 2006: request failed, stopping
+  aer 2006: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210188956%2Cpublication_year%3A2007&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aer 2007: request failed, stopping
+  aer 2007: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210188956%2Cpublication_year%3A2008&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aer 2008: request failed, stopping
+  aer 2008: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210188956%2Cpublication_year%3A2009&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aer 2009: request failed, stopping
+  aer 2009: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210188956%2Cpublication_year%3A2010&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aer 2010: request failed, stopping
+  aer 2010: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210188956%2Cpublication_year%3A2011&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aer 2011: request failed, stopping
+  aer 2011: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210188956%2Cpublication_year%3A2012&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aer 2012: request failed, stopping
+  aer 2012: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210188956%2Cpublication_year%3A2013&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aer 2013: request failed, stopping
+  aer 2013: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210188956%2Cpublication_year%3A2014&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aer 2014: request failed, stopping
+  aer 2014: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210188956%2Cpublication_year%3A2015&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aer 2015: request failed, stopping
+  aer 2015: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210188956%2Cpublication_year%3A2016&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aer 2016: request failed, stopping
+  aer 2016: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210188956%2Cpublication_year%3A2017&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aer 2017: request failed, stopping
+  aer 2017: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210188956%2Cpublication_year%3A2018&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aer 2018: request failed, stopping
+  aer 2018: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210188956%2Cpublication_year%3A2019&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aer 2019: request failed, stopping
+  aer 2019: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210188956%2Cpublication_year%3A2020&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aer 2020: request failed, stopping
+  aer 2020: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210188956%2Cpublication_year%3A2021&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aer 2021: request failed, stopping
+  aer 2021: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210188956%2Cpublication_year%3A2022&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aer 2022: request failed, stopping
+  aer 2022: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210188956%2Cpublication_year%3A2023&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aer 2023: request failed, stopping
+  aer 2023: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210188956%2Cpublication_year%3A2024&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aer 2024: request failed, stopping
+  aer 2024: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210188956%2Cpublication_year%3A2025&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aer 2025: request failed, stopping
+  aer 2025: no works fetched
+
+Fetching qje (1975–2025)...
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210171489%2Cpublication_year%3A1975&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  qje 1975: request failed, stopping
+  qje 1975: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210171489%2Cpublication_year%3A1976&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  qje 1976: request failed, stopping
+  qje 1976: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210171489%2Cpublication_year%3A1977&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  qje 1977: request failed, stopping
+  qje 1977: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210171489%2Cpublication_year%3A1978&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  qje 1978: request failed, stopping
+  qje 1978: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210171489%2Cpublication_year%3A1979&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  qje 1979: request failed, stopping
+  qje 1979: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210171489%2Cpublication_year%3A1980&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  qje 1980: request failed, stopping
+  qje 1980: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210171489%2Cpublication_year%3A1981&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  qje 1981: request failed, stopping
+  qje 1981: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210171489%2Cpublication_year%3A1982&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  qje 1982: request failed, stopping
+  qje 1982: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210171489%2Cpublication_year%3A1983&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  qje 1983: request failed, stopping
+  qje 1983: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210171489%2Cpublication_year%3A1984&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  qje 1984: request failed, stopping
+  qje 1984: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210171489%2Cpublication_year%3A1985&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  qje 1985: request failed, stopping
+  qje 1985: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210171489%2Cpublication_year%3A1986&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  qje 1986: request failed, stopping
+  qje 1986: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210171489%2Cpublication_year%3A1987&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  qje 1987: request failed, stopping
+  qje 1987: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210171489%2Cpublication_year%3A1988&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  qje 1988: request failed, stopping
+  qje 1988: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210171489%2Cpublication_year%3A1989&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  qje 1989: request failed, stopping
+  qje 1989: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210171489%2Cpublication_year%3A1990&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  qje 1990: request failed, stopping
+  qje 1990: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210171489%2Cpublication_year%3A1991&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  qje 1991: request failed, stopping
+  qje 1991: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210171489%2Cpublication_year%3A1992&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  qje 1992: request failed, stopping
+  qje 1992: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210171489%2Cpublication_year%3A1993&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  qje 1993: request failed, stopping
+  qje 1993: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210171489%2Cpublication_year%3A1994&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  qje 1994: request failed, stopping
+  qje 1994: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210171489%2Cpublication_year%3A1995&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  qje 1995: request failed, stopping
+  qje 1995: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210171489%2Cpublication_year%3A1996&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  qje 1996: request failed, stopping
+  qje 1996: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210171489%2Cpublication_year%3A1997&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  qje 1997: request failed, stopping
+  qje 1997: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210171489%2Cpublication_year%3A1998&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  qje 1998: request failed, stopping
+  qje 1998: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210171489%2Cpublication_year%3A1999&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  qje 1999: request failed, stopping
+  qje 1999: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210171489%2Cpublication_year%3A2000&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  qje 2000: request failed, stopping
+  qje 2000: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210171489%2Cpublication_year%3A2001&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  qje 2001: request failed, stopping
+  qje 2001: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210171489%2Cpublication_year%3A2002&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  qje 2002: request failed, stopping
+  qje 2002: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210171489%2Cpublication_year%3A2003&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  qje 2003: request failed, stopping
+  qje 2003: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210171489%2Cpublication_year%3A2004&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  qje 2004: request failed, stopping
+  qje 2004: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210171489%2Cpublication_year%3A2005&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  qje 2005: request failed, stopping
+  qje 2005: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210171489%2Cpublication_year%3A2006&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  qje 2006: request failed, stopping
+  qje 2006: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210171489%2Cpublication_year%3A2007&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  qje 2007: request failed, stopping
+  qje 2007: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210171489%2Cpublication_year%3A2008&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  qje 2008: request failed, stopping
+  qje 2008: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210171489%2Cpublication_year%3A2009&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  qje 2009: request failed, stopping
+  qje 2009: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210171489%2Cpublication_year%3A2010&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  qje 2010: request failed, stopping
+  qje 2010: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210171489%2Cpublication_year%3A2011&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  qje 2011: request failed, stopping
+  qje 2011: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210171489%2Cpublication_year%3A2012&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  qje 2012: request failed, stopping
+  qje 2012: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210171489%2Cpublication_year%3A2013&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  qje 2013: request failed, stopping
+  qje 2013: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210171489%2Cpublication_year%3A2014&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  qje 2014: request failed, stopping
+  qje 2014: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210171489%2Cpublication_year%3A2015&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  qje 2015: request failed, stopping
+  qje 2015: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210171489%2Cpublication_year%3A2016&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  qje 2016: request failed, stopping
+  qje 2016: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210171489%2Cpublication_year%3A2017&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  qje 2017: request failed, stopping
+  qje 2017: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210171489%2Cpublication_year%3A2018&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  qje 2018: request failed, stopping
+  qje 2018: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210171489%2Cpublication_year%3A2019&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  qje 2019: request failed, stopping
+  qje 2019: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210171489%2Cpublication_year%3A2020&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  qje 2020: request failed, stopping
+  qje 2020: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210171489%2Cpublication_year%3A2021&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  qje 2021: request failed, stopping
+  qje 2021: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210171489%2Cpublication_year%3A2022&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  qje 2022: request failed, stopping
+  qje 2022: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210171489%2Cpublication_year%3A2023&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  qje 2023: request failed, stopping
+  qje 2023: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210171489%2Cpublication_year%3A2024&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  qje 2024: request failed, stopping
+  qje 2024: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210171489%2Cpublication_year%3A2025&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  qje 2025: request failed, stopping
+  qje 2025: no works fetched
+
+Fetching aej_micro (2009–2025)...
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210200617%2Cpublication_year%3A2009&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aej_micro 2009: request failed, stopping
+  aej_micro 2009: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210200617%2Cpublication_year%3A2010&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aej_micro 2010: request failed, stopping
+  aej_micro 2010: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210200617%2Cpublication_year%3A2011&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aej_micro 2011: request failed, stopping
+  aej_micro 2011: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210200617%2Cpublication_year%3A2012&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aej_micro 2012: request failed, stopping
+  aej_micro 2012: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210200617%2Cpublication_year%3A2013&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aej_micro 2013: request failed, stopping
+  aej_micro 2013: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210200617%2Cpublication_year%3A2014&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aej_micro 2014: request failed, stopping
+  aej_micro 2014: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210200617%2Cpublication_year%3A2015&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aej_micro 2015: request failed, stopping
+  aej_micro 2015: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210200617%2Cpublication_year%3A2016&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aej_micro 2016: request failed, stopping
+  aej_micro 2016: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210200617%2Cpublication_year%3A2017&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aej_micro 2017: request failed, stopping
+  aej_micro 2017: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210200617%2Cpublication_year%3A2018&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aej_micro 2018: request failed, stopping
+  aej_micro 2018: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210200617%2Cpublication_year%3A2019&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aej_micro 2019: request failed, stopping
+  aej_micro 2019: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210200617%2Cpublication_year%3A2020&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aej_micro 2020: request failed, stopping
+  aej_micro 2020: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210200617%2Cpublication_year%3A2021&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aej_micro 2021: request failed, stopping
+  aej_micro 2021: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210200617%2Cpublication_year%3A2022&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aej_micro 2022: request failed, stopping
+  aej_micro 2022: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210200617%2Cpublication_year%3A2023&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aej_micro 2023: request failed, stopping
+  aej_micro 2023: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210200617%2Cpublication_year%3A2024&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aej_micro 2024: request failed, stopping
+  aej_micro 2024: no works fetched
+  Failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=primary_location.source.id%3AS4210200617%2Cpublication_year%3A2025&per-page=100&cursor=%2A&select=id%2Cdoi%2Ctitle%2Cauthors%2Cpublication_year%2Cabstract_inverted_index%2Cprimary_location%2Clanding_page_url
+  aej_micro 2025: request failed, stopping
+  aej_micro 2025: no works fetched
+
+Done.

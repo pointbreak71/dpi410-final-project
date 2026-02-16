@@ -1,0 +1,21 @@
+years:
+  start: 1995
+  end: latest
+
+journals:
+  - name: AEJ_Micro
+    openalex_id: "<OPENALEX_SOURCE_ID_FOR_AEJ_MICRO>"
+  - name: American_Economic_Review
+    openalex_id: "<OPENALEX_SOURCE_ID_FOR_AER>"
+  - name: Quarterly_Journal_of_Economics
+    openalex_id: "<OPENALEX_SOURCE_ID_FOR_QJE>"
+  - name: Journal_of_Political_Economy
+    openalex_id: "<OPENALEX_SOURCE_ID_FOR_JPE>"
+  - name: Review_of_Economic_Studies
+    openalex_id: "<OPENALEX_SOURCE_ID_FOR_REStud>"
+  - name: Review_of_Economics_and_Statistics
+    openalex_id: "<OPENALEX_SOURCE_ID_FOR_RESTAT>"
+  - name: RAND_Journal_of_Economics
+    openalex_id: "<OPTIONAL_OPENALEX_SOURCE_ID_FOR_RAND>"
+  - name: Journal_of_Industrial_Economics
+    openalex_id: "<OPTIONAL_OPENALEX_SOURCE_ID_FOR_JIE>"
