@@ -1,0 +1,172 @@
+# Comprehensive Configuration for Economics Journal Metadata Scraper
+# Date range: 1975-2025 (default)
+# Includes all major economics journals
+
+# Global settings
+years:
+  start: 1975
+  end: 2025  # Will use current year - 1 if set to "latest"
+
+# Output settings
+output:
+  formats:
+    - csv
+    - parquet
+  directory: "data/processed"
+
+# Scraping settings
+scraping:
+  # Polite delay between requests (seconds)
+  rate_limit_delay: 1.0
+  # Maximum retries for failed requests
+  max_retries: 3
+  # Request timeout (seconds)
+  timeout: 30
+  # Exponential backoff multiplier
+  backoff_multiplier: 2.0
+  # Check robots.txt before scraping
+  respect_robots_txt: true
+  # User agent string
+  user_agent: "ResearchBot/1.0 (Economics Paper Metadata Collection; mailto:research@institution.edu)"
+
+# Progress tracking
+progress:
+  show_progress_bars: true
+  log_file: "logs/scraping.log"
+  verbose: true
+
+# Journals to scrape
+# Each journal should have:
+#   - key: short identifier
+#   - name: full journal name
+#   - openalex_source_id: OpenAlex source ID (use <placeholder> if unknown - will auto-resolve)
+#   - start_year: optional override for this journal's start year
+#   - end_year: optional override for this journal's end year
+journals:
+  # Top 5 journals
+  - key: aer
+    name: "American Economic Review"
+    openalex_source_id: "S23254222"  # Corrected ID
+    start_year: 1975
+    end_year: 2025
+
+  - key: qje
+    name: "Quarterly Journal of Economics"
+    openalex_source_id: "S203860005"  # Corrected ID
+    start_year: 1975
+    end_year: 2025
+
+  - key: jpe
+    name: "Journal of Political Economy"
+    openalex_source_id: "S95323914"  # Corrected ID
+    start_year: 1975
+    end_year: 2025
+
+  - key: econometrica
+    name: "Econometrica"
+    openalex_source_id: "S95464858"  # Corrected ID
+    start_year: 1975
+    end_year: 2025
+
+  - key: restud
+    name: "Review of Economic Studies"
+    openalex_source_id: "S88935262"  # Corrected ID
+    start_year: 1975
+    end_year: 2025
+
+  # American Economic Journal series
+  - key: aej_applied
+    name: "American Economic Journal: Applied Economics"
+    openalex_source_id: "S42893225"  # Corrected ID
+    start_year: 2009  # AEJ series started in 2009
+    end_year: 2025
+
+  - key: aej_macro
+    name: "American Economic Journal: Macroeconomics"
+    openalex_source_id: "S170166683"  # Corrected ID
+    start_year: 2009
+    end_year: 2025
+
+  - key: aej_micro
+    name: "American Economic Journal: Microeconomics"
+    openalex_source_id: "S96919139"  # Corrected ID
+    start_year: 2009
+    end_year: 2025
+
+  - key: aej_policy
+    name: "American Economic Journal: Economic Policy"
+    openalex_source_id: "S158011328"  # Corrected ID
+    start_year: 2009
+    end_year: 2025
+
+  # Additional top journals
+  - key: restat
+    name: "Review of Economics and Statistics"
+    openalex_source_id: "S180061323"  # Corrected ID
+    start_year: 1975
+    end_year: 2025
+
+  - key: jeea
+    name: "Journal of the European Economic Association"
+    openalex_source_id: "S165087003"  # Corrected ID
+    start_year: 2003  # JEEA started in 2003
+    end_year: 2025
+
+  - key: jole
+    name: "Journal of Labor Economics"
+    openalex_source_id: "S8557221"  # Corrected ID
+    start_year: 1983  # JOLE started in 1983
+    end_year: 2025
+
+  - key: jae
+    name: "Journal of Applied Econometrics"
+    openalex_source_id: "S85739584"  # Corrected ID
+    start_year: 1986  # JAE started in 1986
+    end_year: 2025
+
+  - key: jf
+    name: "Journal of Finance"
+    openalex_source_id: "S5353659"  # Corrected ID
+    start_year: 1975
+    end_year: 2025
+
+  - key: jfe
+    name: "Journal of Financial Economics"
+    openalex_source_id: "S149240962"  # Corrected ID
+    start_year: 1975
+    end_year: 2025
+
+# JEL enrichment settings
+jel_enrichment:
+  # Sources to try in order of preference
+  sources:
+    - aea_page      # Scrape from AEA article landing page
+    - crossref      # Crossref API metadata
+    - openalex      # OpenAlex metadata
+    - ideas_repec   # IDEAS/RePEc
+
+  # Cache settings
+  cache_dir: "data/raw/cache"
+  cache_enabled: true
+
+  # Retry settings for each source
+  max_retries_per_source: 2
+  retry_delay: 0.5
+
+# Data processing settings
+processing:
+  # Deduplication strategy
+  deduplicate:
+    enabled: true
+    method: "doi_then_title"  # Deduplicate by DOI first, then by title
+
+  # Missing data handling
+  missing_data:
+    drop_no_title: true
+    drop_no_year: false
+    drop_no_doi: false
+
+  # JEL code requirements
+  jel_requirements:
+    require_jel: false  # If true, drop papers without JEL codes
+    min_jel_codes: 0    # Minimum number of JEL codes required
